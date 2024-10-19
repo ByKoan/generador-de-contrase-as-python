@@ -1,3 +1,3 @@
-### Repo de generadores de passwords
+### Password Generator Repository
 
-Repositorio con diferentes generadores de passwords echos por el momento en python y c
+Repository with different password generators made in C & Python
